@@ -10,3 +10,5 @@ source venv/bin/activate
 pip install -r requirements.txt  # Install required packages
 ```  
 
+##**训练**
+
